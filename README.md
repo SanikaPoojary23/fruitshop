@@ -1,6 +1,7 @@
 🍎 Fresh Fruit Shop
 
 A simple and interactive **fruit shop web application** built using **HTML, CSS, and JavaScript**. This project provides a smooth shopping experience with multiple sections, navigation, and a feedback system.
+
 🔗 **Live Demo**: https://sanikapoojary23.github.io/fruitshop/
 
 ---
