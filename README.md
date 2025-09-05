@@ -47,5 +47,5 @@ The application is deployed and accessible here:
 
 ---
 
-Would you like me to **add screenshots / preview GIF instructions** in the README (so recruiters can quickly see the app without opening the link)?
+
 
